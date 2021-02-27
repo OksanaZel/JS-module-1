@@ -744,3 +744,11 @@
 // console.log(checkForSpam('Trust me, this is not a spam message'));
 // console.log(checkForSpam('Get rid of sPaM emails. Our book in on sale!'));
 // console.log(checkForSpam('[SPAM] How to earn fast money?'));
+
+//Write a function nextInLine which takes an array (arr) and a 
+//number (item) as arguments.
+//Add the number to the end of the array, then remove the 
+//first element of the array.
+//The nextInLine function should then return the element 
+//that was removed.
+
